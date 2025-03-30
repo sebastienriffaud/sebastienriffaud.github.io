@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Postdoctoral researcher
+
 École Polytechnique Fédéral de Lausanne
 
 About me
@@ -17,6 +18,9 @@ I am a postdoctoral researcher at École Polytechnique Fédérale de Lausanne (S
 Contact
 ---
 EPFL SB MATH CSQI
+
 MA B2 434 (Bâtiment MA)
+
 Station 8
+
 1015 Lausanne
