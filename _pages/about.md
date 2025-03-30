@@ -22,5 +22,4 @@ EPFL SB MATH CSQI
 MA B2 434 (Bâtiment MA)
 
 Station 8
-
 1015 Lausanne
