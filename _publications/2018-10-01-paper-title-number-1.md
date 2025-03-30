@@ -3,6 +3,7 @@ title: "Reduced-order model for the BGK equation based on POD and optimal transp
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: ''
 date: 2018-10-01
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2018.07.001'
