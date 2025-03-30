@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
+date: 2018-10-01
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2018.07.001'
 citation: 'F. Bernard, A. Iollo, S. Riffaud (2018). &quot;Reduced-order model for the BGK equation based on POD and optimal transport.&quot; <i>Journal of Computational Physics</i>. 1(1).'
