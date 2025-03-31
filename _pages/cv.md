@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in applied mathematics and scientific computing, Université de Bordeaux, 2020
+* M.S. in applied mathematics, Ensimag - Grenoble INP, 2017
+* B.S. in mathematics, Université de Bordeaux, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec. 2023 - Today: Postdoctoral fellow
+  * École Polytechnique Fédérale de Lausanne (Lausanne, Suisse)
+  * Suject: Dynamical low-rank approximations for data assimilation.
+  * Supervisor: Prof. Fabio Nobile.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2021 - Nov. 2023: Postdoctoral fellow
+  * Centre Inria de Paris (Paris, France)
+  * Suject: Parameter estimation in blood flow model.
+  * Supervisors: Damiano Lombardi and Miguel A. Fernández.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2021 - Oct. 2021: Postdoctoral fellow
+  * Centre Inria de Bordeaux (Bordeaux, France)
+  * Suject: Extraction of the geometry associated with aortic aneurysms.
+  * Supervisor: Prof. Angelo Iollo.
+
+* Jan. 2020 - Apr. 2020: Stay
+  * Stanford University (Stanford, États-Unis)
+  * Suject: Development of a space-local reduced-order model.
+  * Supervisors: Prof. Angelo Iollo and Prof. Charbel Farhat.
+
+* Oct. 2017 - Nov. 2020: Ph.D fellow
+  * Université de Bordeaux (Bordeaux, France)
+  * Suject: Development of reduced-order models for fluid mechanics.
+  * Supervisor: Prof. Angelo Iollo.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Maple, Matlab, Python, Julia, Fortran, C++.
+* Software and libraries: FreeFem++, OpenMP, MPI, ScaLAPACK, PETSc.
 
 Publications
 ======
@@ -58,7 +64,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
