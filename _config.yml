@@ -77,10 +77,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  thesis:
+    title: 'Thesis manuscript'
+  article:
+    title: 'Articles in an international journal'    
   preprint:
     title: 'Preprints'
 
