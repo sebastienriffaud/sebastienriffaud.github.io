@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal webpage / Sébastien Riffaud"
+title                    : "Personal webpage"
 title_separator          : "-"
 name                     : &name "Sébastien Riffaud"
 description              : &description "Postdoctoral researcher at École Polytechnique Fédérale de Lausanne"
