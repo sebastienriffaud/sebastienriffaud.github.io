@@ -28,6 +28,7 @@ author_profile: true
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
+    <h2>Recommended citation</h2><hr />
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
