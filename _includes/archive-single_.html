@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b> <br /> {{ post.author }} <br /> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br /> <a href="{{ post.paperurl }}">Download Paper</a>
+    <p> <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b> <br /> {{ post.author }} <br /> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br /> <a href="{{ post.paperurl }}">Download Paper</a> </p>
 
   </article>
 </div>
