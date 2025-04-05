@@ -23,7 +23,12 @@ author_profile: true
         <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="{{ include.type | default: "list" }}__item">
+        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+          <p> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br /> <b> {{ post.author }} </b> <br /> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br /> <a href="{{ post.paperurl }}">Download Paper</a> </p>
+        </article>
+      </div>
+      <!-- {% include archive-single.html %} -->
     {% endfor %}
   {% endfor %}
 {% else %}
