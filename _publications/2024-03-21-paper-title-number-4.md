@@ -8,7 +8,7 @@ date: 2024-03-21
 venue: 'Journal of Scientific Computing'
 paperurl: 'https://doi.org/10.1007/s10915-024-02488-3'
 author: 'S. Riffaud, M. A. Fernández, D. Lombardi'
-citation: '<b>S. Riffaud, M. A. Fernández, and D. Lombardi.</b> A low-rank solver for parameter
+citation: 'S. Riffaud, M. A. Fernández, and D. Lombardi. A low-rank solver for parameter
 estimation and uncertainty quantification in time-dependent systems of Partial
 Differential Equations. <i>Journal of Scientific Computing</i>, 99(2), 34. 2024.'
 ---
