@@ -21,6 +21,7 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
+        <h2>Recommended citation</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -28,7 +29,6 @@ author_profile: true
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    <h2>Recommended citation</h2><hr />
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
