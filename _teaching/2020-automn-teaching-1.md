@@ -1,12 +1,13 @@
 ---
 title: "Numerical analysis"
 collection: teaching
-type: "Graduate course"
+grade: "Graduate course"
+type: "Exercise session"
 student: "30 students"
 hours: "32 hours"
 permalink: /teaching/2020-automn-teaching-1
 venue: "Institut d'Optique Graduate School (Bordeaux)"
-years: "2019-2020"
+year: "2019-2020"
 date: 2020-01-01
 location: "Bordeaux, France"
 ---
