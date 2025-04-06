@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Post-doctoral researcher (Dec. 2023 - Today)
+* Post-doctoral researcher (Dec. 2023 - Today)<br />
   <i>École Polytechnique Fédérale de Lausanne (Lausanne, Switzerland)</i>
   * <u>Suject:</u> Dynamical low-rank approximations for data assimilation.
   * <u>Supervisor:</u> Prof. Fabio Nobile.
