@@ -20,7 +20,7 @@ Work experience
 * <b>Post-doctoral researcher</b> (Dec. 2023 - Today)<br />
   <i>École Polytechnique Fédérale de Lausanne (Lausanne, Switzerland)</i><br />
   <u>Suject:</u> Dynamical low-rank approximations for data assimilation.<br />
-  <u>Supervisor:</u> Prof. Fabio Nobile.<br />
+  <u>Supervisor:</u> Prof. Fabio Nobile.
 
 * Nov. 2021 - Nov. 2023: Postdoctoral fellow
   * Centre Inria de Paris (Paris, France)
