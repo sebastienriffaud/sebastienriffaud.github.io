@@ -17,30 +17,30 @@ Education
 
 Work experience
 ======
-* <b>Post-doctoral researcher</b> (Dec. 2023 - Today)<br />
+* <b>Postdoctoral researcher</b> (Dec. 2023 - Today)<br />
   <i>École Polytechnique Fédérale de Lausanne (Lausanne, Switzerland)</i><br />
   <u>Suject:</u> Dynamical low-rank approximations for data assimilation.<br />
   <u>Supervisor:</u> Prof. Fabio Nobile.
 
-* Nov. 2021 - Nov. 2023: Postdoctoral fellow
-  * Centre Inria de Paris (Paris, France)
-  * Suject: Parameter estimation in blood flow model.
-  * Supervisors: Damiano Lombardi and Miguel A. Fernández.
+* <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
+  <i>Centre Inria de Paris (Paris, France)</i><br />
+  <u>Suject:</u> Parameter estimation in blood flow model.<br />
+  <u>Supervisors:</u> Damiano Lombardi and Miguel A. Fernández.
 
-* Apr. 2021 - Oct. 2021: Postdoctoral fellow
-  * Centre Inria de Bordeaux (Bordeaux, France)
-  * Suject: Extraction of the geometry associated with aortic aneurysms.
-  * Supervisor: Prof. Angelo Iollo.
+* <b>Postdoctoral researcher</b> (Apr. 2021 - Oct. 2021)<br />
+  <i>Centre Inria de Bordeaux (Bordeaux, France)</i><br />
+  <u>Suject:</u> Extraction of the geometry associated with aortic aneurysms.<br />
+  <u>Supervisor:</u> Prof. Angelo Iollo.
 
-* Jan. 2020 - Apr. 2020: Stay
-  * Stanford University (Stanford, États-Unis)
-  * Suject: Development of a space-local reduced-order model.
-  * Supervisors: Prof. Angelo Iollo and Prof. Charbel Farhat.
+* <b>Scientific stay</b> (Jan. 2020 - Apr. 2020)<br />
+  <i>Stanford University (Stanford, CA, USA)</i><br />
+  <u>Suject:</u> Development of a space-local reduced-order model.<br />
+  <u>Supervisors:</u> Prof. Angelo Iollo and Prof. Charbel Farhat.
 
-* Oct. 2017 - Nov. 2020: Ph.D fellow
-  * Université de Bordeaux (Bordeaux, France)
-  * Suject: Development of reduced-order models for fluid mechanics.
-  * Supervisor: Prof. Angelo Iollo.
+* <b>Doctoral student</b> (Oct. 2017 - Nov. 2020)<br />
+  <i>Université de Bordeaux (Bordeaux, France)</i><br />
+  <u>Suject:</u> Development of reduced-order models for fluid mechanics.<br />
+  <u>Supervisor:</u> Prof. Angelo Iollo.
   
 Skills
 ======
