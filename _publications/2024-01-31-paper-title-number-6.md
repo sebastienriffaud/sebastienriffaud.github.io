@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2024-01-31-paper-title-number-6
 excerpt: ''
 date: 2024-01-31
-venue: 'Hal'
+venue: 'HAL preprint'
 paperurl: 'https://inria.hal.science/hal-04428792'
 author: 'D. Lombardi, S. Riffaud'
 citation: 'D. Lombardi and S. Riffaud. &quotePreconditioners for multilinear problems arising in parametric Partial Differential Equations.&quote (2024).'
