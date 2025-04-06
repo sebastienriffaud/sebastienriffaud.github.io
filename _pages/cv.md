@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 * Ph.D in applied mathematics and scientific computing, Université de Bordeaux, 2020
-* M.S. in applied mathematics, Ensimag - Grenoble INP, 2017
+* M.S. in applied mathematics and scientific computing, Ensimag - Grenoble INP, 2017
 * B.S. in mathematics, Université de Bordeaux, 2015
 
 Work experience
 ======
-* Dec. 2023 - Today: Postdoctoral fellow
-  * École Polytechnique Fédérale de Lausanne (Lausanne, Suisse)
-  * Suject: Dynamical low-rank approximations for data assimilation.
-  * Supervisor: Prof. Fabio Nobile.
+* Post-doctoral researcher (Dec. 2023 - Today)
+  <i>École Polytechnique Fédérale de Lausanne (Lausanne, Switzerland)</i>
+  * <u>Suject:</u> Dynamical low-rank approximations for data assimilation.
+  * <u>Supervisor:</u> Prof. Fabio Nobile.
 
 * Nov. 2021 - Nov. 2023: Postdoctoral fellow
   * Centre Inria de Paris (Paris, France)
