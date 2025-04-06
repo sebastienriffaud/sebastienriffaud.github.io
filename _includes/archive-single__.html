@@ -25,13 +25,11 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink"> {{ title }} </a>
-    </h3>
-    {% if post.read_time %}
-    <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.venue }}
-    <p class="archive__item-excerpt" itemprop="description"> {{ post.type }}, {{post.location}}</p>
+
+    <h2>
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    <p>{{ post.type }} | {{ post.type }} | {{ post.type }}</p>
+
   </article>
 </div>
