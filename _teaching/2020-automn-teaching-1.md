@@ -9,4 +9,10 @@ year: "2019-2020"
 date: 2020-01-01
 location: "Bordeaux, France"
 ---
-The aim of this course is to provide the basic knowledge needed to formalise a problem numerically, while understanding the possibilities and limits in terms of precision, stability and efficiency. The course alternates between theory and practical exercises using MatLab to provide a first approach to numerical solution software.
+The goal of this course is to provide fundamental knowledge to be able to formalize a problem into a numerical one, taking into account the existing abilities and limitations in terms of accuracy, stability and efficiency. The course alternates between theory and practice in MatLab to have a first approache of numerical computing software.
+
+* Linear systems
+* Linear 0ptimisation with and without constraint
+* Nonlinear optimization with and without constraint
+* Numerical integration
+* Discretization of partial differential equations
