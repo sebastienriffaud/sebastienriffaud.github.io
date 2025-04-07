@@ -18,29 +18,29 @@ Education
 Work experience
 ======
 * <b>Postdoctoral researcher</b> (Dec. 2023 - Today)<br />
-  <i>École Polytechnique Fédérale de Lausanne (Switzerland)</i><br />
-  <u>Suject:</u> Dynamical low-rank approximations for data assimilation.<br />
-  <u>Supervisor:</u> Prof. Fabio Nobile.
+  <i>École Polytechnique Fédérale de Lausanne (Lausanne, Switzerland)</i><br />
+  <u>Suject:</u> Dynamical low-rank approximations for data assimilation<br />
+  <u>Supervisor:</u> Prof. Fabio Nobile
 
 * <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
-  <i>Centre Inria de Paris (France)</i><br />
-  <u>Suject:</u> Parameter estimation in blood flow model.<br />
-  <u>Supervisors:</u> Damiano Lombardi and Miguel A. Fernández.
+  <i>Centre Inria de Paris (Paris, France)</i><br />
+  <u>Suject:</u> Parameter estimation in blood flow model<br />
+  <u>Supervisors:</u> Damiano Lombardi and Miguel A. Fernández
 
 * <b>Postdoctoral researcher</b> (Apr. 2021 - Oct. 2021)<br />
-  <i>Centre Inria de Bordeaux (France)</i><br />
-  <u>Suject:</u> Extraction of the geometry associated with aortic aneurysms.<br />
-  <u>Supervisor:</u> Prof. Angelo Iollo.
+  <i>Centre Inria de Bordeaux (Talence, France)</i><br />
+  <u>Suject:</u> Extraction of the geometry associated with aortic aneurysms<br />
+  <u>Supervisor:</u> Prof. Angelo Iollo
 
 * <b>Scientific stay</b> (Jan. 2020 - Apr. 2020)<br />
-  <i>Stanford University (USA)</i><br />
-  <u>Suject:</u> Development of a space-local reduced-order model.<br />
-  <u>Supervisors:</u> Prof. Angelo Iollo and Prof. Charbel Farhat.
+  <i>Stanford University (Stanford, CA, USA)</i><br />
+  <u>Suject:</u> Development of a space-local reduced-order model<br />
+  <u>Supervisors:</u> Prof. Angelo Iollo and Prof. Charbel Farhat
 
 * <b>Doctoral student</b> (Oct. 2017 - Nov. 2020)<br />
-  <i>Université de Bordeaux (France)</i><br />
-  <u>Suject:</u> Development of reduced-order models for fluid mechanics.<br />
-  <u>Supervisor:</u> Prof. Angelo Iollo.
+  <i>Université de Bordeaux (Talence, France)</i><br />
+  <u>Suject:</u> Development of reduced-order models for fluid mechanics<br />
+  <u>Supervisor:</u> Prof. Angelo Iollo
   
 Skills
 ======
