@@ -9,3 +9,4 @@ year: "2019-2020"
 date: 2020-01-01
 location: "Bordeaux, France"
 ---
+The aim of this course is to provide the basic knowledge needed to formalise a problem numerically, while understanding the possibilities and limits in terms of precision, stability and efficiency. The course alternates between theory and practical exercises using MatLab to provide a first approach to numerical solution software.
