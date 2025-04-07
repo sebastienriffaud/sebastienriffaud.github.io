@@ -10,3 +10,8 @@ date: 2025-01-01
 location: "Lausanne, Switzerland"
 ---
 The course studies fundamental concepts of analysis and the calculus of functions of several variables.
+
+* Vector space
+* Differential calculus of real multivariate functions
+* Multiple integral
+* Ordinary differential equation
