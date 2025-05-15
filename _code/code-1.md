@@ -1,6 +1,6 @@
 ---
-title: "rkbug-integrators"
-excerpt: "Runge-Kutta BUG integrators for dynamical low-rank approximations"
+title: "Runge-Kutta BUG integrators for dynamical low-rank approximations"
+excerpt: "rkbug-integrators"
 collection: code
 codeurl: 'https://doi.org/10.1016/j.jcp.2018.07.001'
 ---
