@@ -1,7 +1,7 @@
 ---
-title: "Analysis"
+title: "Analyse avancée II - analyse vectorielle"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course | exercise sessions"
 hours: "34 hours"
 permalink: /teaching/2025-spring-teaching-3
 venue: "École Polytechnique Fédérale de Lausanne"

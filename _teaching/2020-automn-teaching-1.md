@@ -1,10 +1,10 @@
 ---
-title: "Numerical analysis"
+title: "Méthodes numériques de l'ingénieur"
 collection: teaching
-type: "Graduate course"
+type: "Graduate course | exercise sessions"
 hours: "32 hours"
 permalink: /teaching/2020-automn-teaching-1
-venue: "Institut d'Optique Graduate School (Bordeaux)"
+venue: "Institut d'Optique Graduate School (Bordeaux campus)"
 year: "2019-2020"
 date: 2020-01-01
 location: "Bordeaux, France"

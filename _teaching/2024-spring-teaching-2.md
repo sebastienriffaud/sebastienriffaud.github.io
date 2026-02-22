@@ -1,7 +1,7 @@
 ---
 title: "Numerical analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course | lectures (as replacement) and exercise sessions"
 hours: "28 hours"
 permalink: /teaching/2024-spring-teaching-2
 venue: "École Polytechnique Fédérale de Lausanne"
