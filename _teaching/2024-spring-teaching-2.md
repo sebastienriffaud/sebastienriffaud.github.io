@@ -1,5 +1,5 @@
 ---
-title: "Numerical analysis"
+title: "Analyse numérique"
 collection: teaching
 type: "Undergraduate course | lectures (as replacement) and exercise sessions"
 hours: "28 hours"
