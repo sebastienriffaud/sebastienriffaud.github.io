@@ -26,26 +26,22 @@ Work experience
 
 * <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
   <i>Centre Inria de Paris (France)</i><br />
-  <u>Research topic:</u><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;-- Low-rank methods for inverse problems and uncertainty quantification<br />
+  <u>Research topic:</u> Low-rank methods for inverse problems and uncertainty quantification<br />
   <u>Postdoctoral advisors:</u> Damiano Lombardi and Miguel A. Fernández
 
 * <b>Postdoctoral researcher</b> (Apr. 2021 - Oct. 2021)<br />
   <i>Centre Inria de Bordeaux (France)</i><br />
-  <u>Research topic:</u><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;-- Graph-based methods for geometry extraction of abdominal aortic aneurysms<br />
+  <u>Research topic:</u> Graph-based methods for geometry extraction of abdominal aortic aneurysms<br />
   <u>Postdoctoral advisor:</u> Prof. Angelo Iollo
 
 * <b>Scientific stay</b> (Jan. 2020 - Apr. 2020)<br />
   <i>Stanford University (USA)</i><br />
-  <u>Research topic:</u><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;-- Space-local reduced-order modeling for compressible flows<br />
+  <u>Research topic:</u> Space-local reduced-order modeling for compressible flows<br />
   <u>Collaborators:</u> Prof. Angelo Iollo and Prof. Charbel Farhat
 
 * <b>Doctoral student</b> (Oct. 2017 - Nov. 2020)<br />
   <i>Université de Bordeaux (France)</i><br />
-  <u>Research topic:</u><br />
-  &nbsp;&nbsp;&nbsp;&nbsp;-- Projection-based reduced-order models for transport-dominated and kinetic equations<br />
+  <u>Research topic:</u> Projection-based reduced-order models for transport-dominated and kinetic equations<br />
   <u>PhD supervisor:</u> Prof. Angelo Iollo
   
 Skills
