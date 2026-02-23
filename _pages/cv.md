@@ -20,12 +20,12 @@ Work experience
 * <b>Postdoctoral researcher</b> (Dec. 2023 - Today)<br />
   <i>École Polytechnique Fédérale de Lausanne (Switzerland)</i><br />
   <u>Subject:</u> Dynamical low-rank approximations for data assimilation<br />
-  <u>Postdoctoral advisor:</u> Prof. Fabio Nobile and Prof. Jürg A. Schiffmann
+  <u>Postdoctoral advisors:</u> Prof. Fabio Nobile and Prof. Jürg A. Schiffmann
 
 * <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
   <i>Centre Inria de Paris (France)</i><br />
-  <u>Subject:</u> Parameter estimation in blood flow model<br />
-  <u>Postdoctoral advisor:</u> Damiano Lombardi and Miguel A. Fernández
+  <u>Subject:</u> Parameter estimation and uncertainty quantification in FSI-based blood flow models<br />
+  <u>Postdoctoral advisors:</u> Damiano Lombardi and Miguel A. Fernández
 
 * <b>Postdoctoral researcher</b> (Apr. 2021 - Oct. 2021)<br />
   <i>Centre Inria de Bordeaux (France)</i><br />
