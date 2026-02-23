@@ -20,8 +20,8 @@ Work experience
 * <b>Postdoctoral researcher</b> (Dec. 2023 - Today)<br />
   <i>École Polytechnique Fédérale de Lausanne (Switzerland)</i><br />
   <u>Research topics:</u><br />
-  * Dynamical low-rank approximations for data assimilation
-  * Reduced-order and machine learning surrogates for turbulent flows
+  - Dynamical low-rank approximations for data assimilation<br />
+  - Reduced-order and machine learning surrogates for turbulent flows<br />
   <u>Postdoctoral advisors:</u> Prof. Fabio Nobile and Prof. Jürg A. Schiffmann
 
 * <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
