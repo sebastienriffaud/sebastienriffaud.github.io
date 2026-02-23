@@ -26,7 +26,8 @@ Work experience
 
 * <b>Postdoctoral researcher</b> (Nov. 2021 - Nov. 2023)<br />
   <i>Centre Inria de Paris (France)</i><br />
-  <u>Research topic:</u> Low-rank methods for inverse problems and uncertainty quantification<br />
+  <u>Research topic:</u><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;-- Low-rank methods for inverse problems and uncertainty quantification<br />
   <u>Postdoctoral advisors:</u> Damiano Lombardi and Miguel A. Fernández
 
 * <b>Postdoctoral researcher</b> (Apr. 2021 - Oct. 2021)<br />
